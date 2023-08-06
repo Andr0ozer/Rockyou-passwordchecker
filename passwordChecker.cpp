@@ -5,7 +5,7 @@
 
 using namespace std;
 
-#define ROCKYOUPATH "/usr/share/wordlists/rockyou.txt"
+#define ROCKYOUPATH "rockyou.txt"
 
 int main(int argc, char** argv)
 {
